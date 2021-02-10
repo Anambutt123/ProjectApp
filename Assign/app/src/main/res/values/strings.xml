@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="add_contact">ADD CONTACT</string>
+    <string name="disclaimer">ENTER THE FOLLOWING INFORMATION:</string>
+    <string name="name">ENTER YOUR NAME</string>
+    <string name="number">ENTER PHONE NUMBER</string>
+    <string name="address">ENTER YOUR ADDRESS</string>
+    <string name="website">ENTER YOUR LINK</string>
+    <string name="submit">SUBMIT</string>
+    <string name="textview">TextView</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773360817674",
+    "project_id": "supchatletsstart",
+    "storage_bucket": "supchatletsstart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773360817674:android:3ca9f3b663d23f2dd2b1f3",
+        "android_client_info": {
+          "package_name": "com.example.privatechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773360817674-g8tvbme3j819trvmucmtphq483bb6ne1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDq2KAQeYNY4OpY5n7EiFvYyce-BofzLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773360817674-g8tvbme3j819trvmucmtphq483bb6ne1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

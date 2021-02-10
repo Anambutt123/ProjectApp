@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BloodDonor</string>
+    <string-array name="DonorName">
+        <item>Salman</item>
+        <item>Ahmad</item>
+        <item>Akmal</item>
+        <item>Arshad</item>
+        <item>Aslam</item>
+        <item>Hamza</item>
+
+
+    </string-array>
+
+
+</resources>

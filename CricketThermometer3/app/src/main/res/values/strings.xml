@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CricketThermometer</string>
+    <string name="did_you_know_you_can_determine_the_temperature_outside_by_counting_the_number_of_chirps_the_cricket_makes_just_count_the_number_of_chirps_one_makes_in_25_seconds_and_place_that_number_in_the_below">Did You Know you can determine the Temperature outside by counting the number of chirps the cricket makes? just count the number of chirps one makes in 25 seconds and place that number in the below:</string>
+    <string name="number_of_chips_in_25_seconds">Number of chips in 25 seconds</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="calculate_temperature">Calculate Temperature</string>
+</resources>
